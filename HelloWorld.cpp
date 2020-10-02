@@ -4,7 +4,7 @@
 void main()
 {clrscr();
  cout<<"                                  ***********\n";
- cout<<"                                  Hello World\n";
+ cout<<"                                  Hello Nipunsak\n";
  cout<<"                                  ***********\n\n";
  cout<<"                     This is my first github pull program.\n\n";
  getch();
